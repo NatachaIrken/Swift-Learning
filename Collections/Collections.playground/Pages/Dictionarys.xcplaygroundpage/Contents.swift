@@ -32,6 +32,8 @@ diccionario6["nombre"] = "Victoria"
 let diccionarioStar = [1977:"A new hope", 1980:"The empire strikes back", 1983:"The return of jedi", 1999:"The phantom Menace", 2002:"Attack of the clones", 2005:"Revenge of the sith",
     2015:"The force awakes", 2016:"Rogue one", 2017:"The last jedi"]
 
+let diccionarioStars = ["Star wars": 1977, "The empire strickes back": 1980, "The return of jedi": 1983, "The phantom menace": 1999, "Atacj of clones": 2002
+]
 // Nos saca ambos valores como 1 solo
 
 for detalle in diccionarioStar {
@@ -83,3 +85,9 @@ arrayDiccionario.append(dic2)
 if let film = arrayDiccionario[1]["Film"] {
     print(film)
 }
+
+// Colocar valor por defecto para que, si no tiene valor, devuelva 0. Se puede realizar de estas 2 formas
+
+let añosStarWars1 = diccionarioStars["Star wars"] ?? 0
+let añosStarWars = diccionarioStars["A new hope", default: 0]
+
