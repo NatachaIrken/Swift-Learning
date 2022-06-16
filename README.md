@@ -51,6 +51,7 @@
 
 ## Closure
 Concept
+Clousure like parameters 
 
 ## Properties
 - DidSet

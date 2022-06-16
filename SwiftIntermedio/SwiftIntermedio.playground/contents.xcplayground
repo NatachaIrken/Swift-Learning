@@ -5,5 +5,7 @@
         <page name='ENUM'/>
         <page name='Class'/>
         <page name='Structs'/>
+        <page name='Fallibility'/>
+        <page name='Closure'/>
     </pages>
 </playground>
