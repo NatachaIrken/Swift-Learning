@@ -50,8 +50,11 @@
 - Fallible initializer for struct and enum
 
 ## Closure
-Concept
-Clousure like parameters 
+- Concept
+- Clousure like parameters 
+
+## Optional chaining
+- Concept
 
 ## Properties
 - DidSet
