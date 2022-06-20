@@ -7,5 +7,6 @@
         <page name='Structs'/>
         <page name='Fallibility'/>
         <page name='Closure'/>
+        <page name='EncadenamientoOpc'/>
     </pages>
 </playground>
