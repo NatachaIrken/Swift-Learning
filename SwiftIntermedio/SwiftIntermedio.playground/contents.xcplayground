@@ -9,5 +9,6 @@
         <page name='Closure'/>
         <page name='OptionalChaining'/>
         <page name='Properties'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
