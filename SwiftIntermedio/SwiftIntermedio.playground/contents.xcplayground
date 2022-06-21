@@ -10,5 +10,6 @@
         <page name='OptionalChaining'/>
         <page name='Properties'/>
         <page name='Protocols'/>
+        <page name='Delegate'/>
     </pages>
 </playground>
