@@ -3,6 +3,7 @@
     <pages>
         <page name='ErrorHander-Throws'/>
         <page name='ErrorHandler-Do-Try-Catch'/>
-        <page name='ErrorHander-Closure-Throw-Rethrow'/>
+        <page name='ErrorHandler-Closure-Throw-Rethrow'/>
+        <page name='ErrorHandler-initializers-throw-errors'/>
     </pages>
 </playground>
