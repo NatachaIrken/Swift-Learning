@@ -11,5 +11,6 @@
         <page name='Properties'/>
         <page name='Protocols'/>
         <page name='Delegate'/>
+        <page name='Extentions'/>
     </pages>
 </playground>
