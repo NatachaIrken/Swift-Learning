@@ -69,7 +69,7 @@
 ## Delegate
 - Concept and model MVC
 
-[## Extentions
+## Extentions
 - Concept
 - Protocols extentions
 
@@ -81,7 +81,8 @@
 - Concept
 - Do, Try, Catch
 - Throws
-- Retrrows
+- Rethrows
+- initializers that throw errors
 - Optional result with try? and try! 
 
 
